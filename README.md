@@ -1,4 +1,4 @@
-Quick guide to import, clean, analyze, and model Starbucks nutrition data using NumPy.
+This repository contains a Jupyter Notebook that demonstrates a step-by-step process for importing, cleaning, analyzing, and modeling nutritional data for Starbucks beverages using NumPy.
 
 <h1>Files</h1>
 
