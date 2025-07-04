@@ -1,26 +1,26 @@
-Data Analysis Workshops: NumPy & Pandas
-This repository contains introductory workshop notebooks focused on data analysis with NumPy and Pandas:
+# 📚 Data Analysis Workshops: NumPy & Pandas
 
-📊 NumpyStarbucksWorkshop.ipynb: Learn core NumPy operations through a Starbucks-themed dataset.
+This repository contains beginner-friendly Jupyter notebooks designed to introduce data analysis using **NumPy** and **Pandas** through hands-on examples.
 
-🎥 PandasNetflixWorkshop.ipynb: Explore Netflix data using Pandas for cleaning, analysis, and visualization.
+## 🗂️ Contents
 
-Goals
-Introduce Python data manipulation techniques.
+- [`NumpyStarbucksWorkshop.ipynb`](./NumpyStarbucksWorkshop.ipynb)  
+  Learn NumPy basics by analyzing a Starbucks dataset. Covers arrays, indexing, broadcasting, and basic statistics.
 
-Build practical skills in handling real-world datasets.
+- [`PandasNetflixWorkshop.ipynb`](./PandasNetflixWorkshop.ipynb)  
+  Explore Netflix data using Pandas. Includes data cleaning, filtering, grouping, and simple visualizations.
 
-Serve as a learning resource for beginners in data science.
+## 🎯 Objectives
 
-Future Additions
-This repository will be expanded with additional notebooks covering:
+- Understand and apply core data manipulation techniques in Python.
+- Work with real-world datasets in a structured and practical way.
+- Lay the foundation for deeper exploration in data science and machine learning.
 
-Advanced NumPy and Pandas techniques
+## 🚀 Getting Started
 
-Data visualization (Matplotlib, Seaborn)
+To run the notebooks locally:
 
-Machine learning with Scikit-learn
-
-Real-world case studies and mini-projects
-
-Stay tuned for updates!
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
