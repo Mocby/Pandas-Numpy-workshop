@@ -1,12 +1,26 @@
-This repository contains a Jupyter Notebook that demonstrates a step-by-step process for importing, cleaning, analyzing, and modeling nutritional data for Starbucks beverages using NumPy.
+Data Analysis Workshops: NumPy & Pandas
+This repository contains introductory workshop notebooks focused on data analysis with NumPy and Pandas:
 
-<h1>Files</h1>
+📊 NumpyStarbucksWorkshop.ipynb: Learn core NumPy operations through a Starbucks-themed dataset.
 
-starbucks-menu-nutrition-drinks.csv: raw data NumpyStarbucksWorkshop.ipynb: analysis notebook
+🎥 PandasNetflixWorkshop.ipynb: Explore Netflix data using Pandas for cleaning, analysis, and visualization.
 
-<h1>Steps</h1>
+Goals
+Introduce Python data manipulation techniques.
 
-Load data with np.genfromtxt Clean "-" → np.nan and separate text/numeric arrays Compute basic stats (mean, median, min, max) 
-Build a 4-level calorie “NutriScore” and filter results
+Build practical skills in handling real-world datasets.
 
-<h1>Run</h1>
+Serve as a learning resource for beginners in data science.
+
+Future Additions
+This repository will be expanded with additional notebooks covering:
+
+Advanced NumPy and Pandas techniques
+
+Data visualization (Matplotlib, Seaborn)
+
+Machine learning with Scikit-learn
+
+Real-world case studies and mini-projects
+
+Stay tuned for updates!
